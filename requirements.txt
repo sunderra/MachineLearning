@@ -1,0 +1,5 @@
+matplotlib==3.9.2
+keras==3.6.0
+tensorflow==2.18.0
+pandas-datareader==0.10.0
+openpyxl==3.2.0b1
