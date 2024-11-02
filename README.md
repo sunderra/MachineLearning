@@ -22,10 +22,12 @@ own python interpreter viz.,
 
 C:/Users/sunde/AppData/Local/JetBrains/PyCharmCE2024.2/demo/PyCharmLearningProject/venv/Scripts/python.exe
 
-I has its own set of packages. The file "requirements.txt" should have 
+It has its own set of packages. The file "requirements.txt" should have 
 specific packages required for streamlit operation specified as:
 
 <package name>==<version number>
+
+
 
 
 
